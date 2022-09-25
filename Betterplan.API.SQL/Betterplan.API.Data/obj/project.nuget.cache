@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oAb6bYQQkDHDoSj/eogDWFt8REu8uS1adBpzquulFbHcvMuJzbrOG9iat+JAt+4wzB9+lG/1CNk4iKzNq7KIng==",
+  "success": true,
+  "projectFilePath": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Data\\Betterplan.API.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Orlando\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Orlando\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\Orlando\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

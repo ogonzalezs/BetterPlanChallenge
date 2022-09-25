@@ -1,0 +1,15 @@
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\bin\Debug\net5.0\Betterplan.API.Data.deps.json
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\bin\Debug\net5.0\Betterplan.API.Data.dll
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\bin\Debug\net5.0\ref\Betterplan.API.Data.dll
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\bin\Debug\net5.0\Betterplan.API.Data.pdb
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\bin\Debug\net5.0\Betterplan.API.Model.dll
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\bin\Debug\net5.0\Betterplan.API.Model.pdb
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\obj\Debug\net5.0\Betterplan.API.Data.csproj.AssemblyReference.cache
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\obj\Debug\net5.0\Betterplan.API.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\obj\Debug\net5.0\Betterplan.API.Data.AssemblyInfoInputs.cache
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\obj\Debug\net5.0\Betterplan.API.Data.AssemblyInfo.cs
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\obj\Debug\net5.0\Betterplan.API.Data.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\obj\Debug\net5.0\Betterplan.API.Data.csproj.CopyComplete
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\obj\Debug\net5.0\Betterplan.API.Data.dll
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\obj\Debug\net5.0\ref\Betterplan.API.Data.dll
+D:\Desarrollo\Dev\Labs\Betterplan\Betterplan.API.SQL\Betterplan.API.Data\obj\Debug\net5.0\Betterplan.API.Data.pdb

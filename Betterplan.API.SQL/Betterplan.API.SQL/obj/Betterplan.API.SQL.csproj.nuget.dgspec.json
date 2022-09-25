@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.SQL\\Betterplan.API.SQL.csproj": {}
+  },
+  "projects": {
+    "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Data\\Betterplan.API.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Data\\Betterplan.API.Data.csproj",
+        "projectName": "Betterplan.API.Data",
+        "projectPath": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Data\\Betterplan.API.Data.csproj",
+        "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
+        "outputPath": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Orlando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Desarrollo\\JuanV\\IBask\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Model\\Betterplan.API.Model.csproj": {
+                "projectPath": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Model\\Betterplan.API.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Model\\Betterplan.API.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Model\\Betterplan.API.Model.csproj",
+        "projectName": "Betterplan.API.Model",
+        "projectPath": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Model\\Betterplan.API.Model.csproj",
+        "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
+        "outputPath": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Orlando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Desarrollo\\JuanV\\IBask\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.SQL\\Betterplan.API.SQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.SQL\\Betterplan.API.SQL.csproj",
+        "projectName": "Betterplan.API.SQL",
+        "projectPath": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.SQL\\Betterplan.API.SQL.csproj",
+        "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
+        "outputPath": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.SQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Orlando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Desarrollo\\JuanV\\IBask\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Data\\Betterplan.API.Data.csproj": {
+                "projectPath": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Data\\Betterplan.API.Data.csproj"
+              },
+              "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Model\\Betterplan.API.Model.csproj": {
+                "projectPath": "E:\\Desarrollo\\Lab\\BetterPlan\\Betterplan.API.SQL\\Betterplan.API.Model\\Betterplan.API.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
